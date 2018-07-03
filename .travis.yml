@@ -1,3 +1,7 @@
+os:
+  - linux
+  - linux-ppc64le
+  - osx
 sudo: required
 language: node_js
 node_js: '8'
